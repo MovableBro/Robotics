@@ -23,7 +23,7 @@ tags:
 
 
 ## 참고링크
-- @[지킬 step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+- [지킬 step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
 ## 문제점
 1. 현재 당면한 문제는 이미지 업로드를 회사에서 할 수 없다는 것이다.
