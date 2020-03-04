@@ -6,21 +6,12 @@ tags:
   - forward dynamics
 ---
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-  });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 # 로봇동역학
 
 ## 개요
 로봇 동역학은 로봇 동역학 모델링에서 부터 시작한다.  
-또 $$$F = ma$$$에서 시작하기도 한다.  
-
-\cos (2\theta) = \cos^2 \theta - \sin^2 \theta  
-로봇 관절이 보통 회전관절이기 때문에 \tau = I\*\alpha 를 고려해야 한다.
+또 F = ma에서 시작하기도 한다.  
+로봇 관절이 보통 회전관절이기 때문에 tau = I*alpha 를 고려해야 한다.
 
 ## 정동역학과 역동역학
 영어로는 foward dynamics와 inverse dynamics 이다.  
