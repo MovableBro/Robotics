@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Robot Dynamics"
 categories : dynamics
 tags:
   - inverse dynamics
