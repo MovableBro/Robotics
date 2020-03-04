@@ -1,5 +1,5 @@
 ---
-title: "모터회로"
+title: "motor dynamic model"
 categories:
   - robotics
   - robot-modeling
