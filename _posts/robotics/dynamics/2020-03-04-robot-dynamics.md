@@ -2,8 +2,8 @@
 title: "로봇 다이나믹스 테스트 포스트"
 categories : dynamics
 tags:
-  - test
   - inverse dynamics
+  - forward dynamics
 ---
 
 # 로봇동역학
