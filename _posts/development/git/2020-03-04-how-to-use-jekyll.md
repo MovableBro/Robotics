@@ -18,8 +18,8 @@ tags:
 
 ## 마크다운 문법
 1. 현재 포스트는 마크다운 문법을 이용해서 작성되었다.
-2. 마크다운 문법은 검색해 보면 많이 있다. @[마크다운문법소개1](https://heropy.blog/2017/09/30/markdown/), @[마크다운문법소개2](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-3. 마크다운 문법 연습을 위한 프로그램도 있다. @[하루패드관련](https://recoveryman.tistory.com/323?category=635733)
+2. 마크다운 문법은 검색해 보면 많이 있다. [마크다운문법소개1](https://heropy.blog/2017/09/30/markdown/), [마크다운문법소개2](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+3. 마크다운 문법 연습을 위한 프로그램도 있다. [하루패드관련](https://recoveryman.tistory.com/323?category=635733)
 
 
 ## 참고링크
