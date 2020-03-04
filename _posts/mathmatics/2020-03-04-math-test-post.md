@@ -6,4 +6,4 @@ tags :
   - images
 ---
 여기에 그림이 
-![사진](~/Robotics/assets/assets/images/bio-photo.jpg)
+![사진](~/assets/images/bio-photo.jpg)
