@@ -1,6 +1,6 @@
 ---
 title: "Movile manipulator paper review"
-date: 2030-03-04
+date: 2020-03-04
 categories:
   - kinematics
 tags:
@@ -8,3 +8,4 @@ tags:
   - inverse kinematics
   - redundancy
 ---
+asdfasdf
