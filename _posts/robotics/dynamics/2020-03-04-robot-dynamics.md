@@ -1,5 +1,5 @@
 ---
-title: "로봇 다이나믹스 테스트 포스트"
+title: ""
 categories : dynamics
 tags:
   - inverse dynamics
