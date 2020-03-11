@@ -16,8 +16,10 @@ tags:
 
 ## 로봇 모델  
 - 기존 6자유도 로봇  
-![robotis_manipulator_h](http://emanual.robotis.com/assets/images/platform/manipulator_h/manipulator_product.gif)  
   - Roll - Pitch - Pitch - Roll - Pitch - Roll (6DOF) 구조임
+![robotis_manipulator_h](http://emanual.robotis.com/assets/images/platform/manipulator_h/manipulator_product.gif)  
+![robotis_manipulator_h_2d_design_img](http://emanual.robotis.com/assets/images/platform/manipulator_h/manipulator_h_001.jpg)  
+  
 - 1 DOF 추가
   - Roll - Pitch - Pitch - Pitch - Roll - Pitch - Roll (7DOF) 구조로 변경
 
