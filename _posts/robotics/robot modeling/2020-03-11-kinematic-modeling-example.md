@@ -42,6 +42,19 @@ tags:
 |6	|0	|-90|	0	 |0|
 |7	|0	|90	|123 |0|
 
+matlab code
+```matlab
+robotis7MDH = SerialLink([
+    RevoluteMDH('alpha', al0, 'a', a0, 'd', d1, 'offset', O1)
+    RevoluteMDH('alpha', al1, 'a', a1, 'd', d2, 'offset', O2)
+    RevoluteMDH('alpha', al2, 'a', a2, 'd', d3, 'offset', O3)
+    RevoluteMDH('alpha', al3, 'a', a3, 'd', d4, 'offset', O4)
+    RevoluteMDH('alpha', al4, 'a', a4, 'd', d5, 'offset', O5)
+    RevoluteMDH('alpha', al5, 'a', a5, 'd', d6, 'offset', O6)
+    RevoluteMDH('alpha', al6, 'a', a6, 'd', d7, 'offset', O7)
+    ], 'name', 'mdhROBOTIS7');
+```
+
 참고) 기존 6 자유도 MDH Table, (length: [mm], Angle: [Deg] )
 |i	|a(i-1)	|alpha(i-1)	|d(i)	|offset(i)|
 |------|---|---|---|---|
