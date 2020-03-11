@@ -15,14 +15,15 @@ tags:
 - 
 
 ## 로봇 모델  
-- 기존 6자유도 로봇  
-  - Roll - Pitch - Pitch - Roll - Pitch - Roll (6DOF) 구조임  
+### 기존 6자유도 로봇  
+- Roll - Pitch - Pitch - Roll - Pitch - Roll (6DOF) 구조임  
 ![robotis_manipulator_h](http://emanual.robotis.com/assets/images/platform/manipulator_h/manipulator_product.gif)  
-  - 평면도
+- 평면도  
 ![robotis_manipulator_h_2d_design_img](http://emanual.robotis.com/assets/images/platform/manipulator_h/manipulator_h_001.jpg)  
-  
-- 1 DOF 추가
-  - Roll - Pitch - Pitch - Pitch - Roll - Pitch - Roll (7DOF) 구조로 변경
+- 기존 MDH table
+
+### 1 DOF 추가
+- Roll - Pitch - Pitch - Pitch - Roll - Pitch - Roll (7DOF) 구조로 변경
 
 ## 결과물
 - D-H Table 이 결과물로 산출됨.
@@ -41,8 +42,15 @@ tags:
 |6	|0	|-90|	0	 |0|
 |7	|0	|90	|123 |0|
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+참고) 기존 6 자유도 MDH Table, (length: [mm], Angle: [Deg] )
+|i	|a(i-1)	|alpha(i-1)	|d(i)	|offset(i)|
+|------|---|---|---|---|
+|1	|0	|0	|159 |0|
+|2	|0	|-90|0	 |o2|
+|3	|a2	|0  |0   |o3|
+|4	|-30|90	|258 |0|
+|5	|0  |-90|0   |0|
+|6	|0	|90 |123 |0|  
+a2 = sqrt(264^2 + 30^2)  
+o2 = -atan2(264, 30)  
+o3 = atan2(264, 30)
