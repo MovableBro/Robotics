@@ -44,6 +44,7 @@ tags:
 
 matlab code
 ```matlab
+% matlab robotics tool box (Peter Corke) 예제코드
 robotis7MDH = SerialLink([
     RevoluteMDH('alpha', al0, 'a', a0, 'd', d1, 'offset', O1)
     RevoluteMDH('alpha', al1, 'a', a1, 'd', d2, 'offset', O2)
