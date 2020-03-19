@@ -1,6 +1,8 @@
 ---
 title: "Robot Dynamics"
-categories : dynamics
+categories: 
+  - robotics
+  - dynamics
 tags:
   - inverse dynamics
   - forward dynamics
