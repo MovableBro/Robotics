@@ -7,6 +7,13 @@ tags:
   - inverse dynamics
   - forward dynamics
 ---
+```python
+반드시 예제를 자신의 힘으로 해결해 보시오.
+1. 3축 PUMA 로봇의 기구학을 구해보시오.
+2. 3축 PUMA 로봇의 자코비안을 구해 보시오.
+3. 3축 PUMA 로봇의 동역학을 구해 보시오.
+```
+
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
 
